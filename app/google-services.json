@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504219015865",
+    "firebase_url": "https://projectgatcha-2aa10-default-rtdb.firebaseio.com",
+    "project_id": "projectgatcha-2aa10",
+    "storage_bucket": "projectgatcha-2aa10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504219015865:android:ed5edfafe3c0cd4b075968",
+        "android_client_info": {
+          "package_name": "com.lf.projectgatcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504219015865-posgsturvbr6lc0g09hc3t7gqvnqtods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG45ztzwuic-NWLI0XEG5pcC8cOdBf0bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504219015865-posgsturvbr6lc0g09hc3t7gqvnqtods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
